@@ -1,3 +1,5 @@
+# This is an archive of the last commit before moving to drawing text directly on the framebuffer
+
 # FossScope (working title)
 
 An open source alternative to SmashScope.
